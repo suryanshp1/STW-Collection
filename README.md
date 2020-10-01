@@ -1,6 +1,8 @@
 STW-Collection
 ==============
 
+Scrapy is an application framework for crawling web sites and extracting structured data that can be used for a wide range of useful applications, like data mining, information processing or historical archival.
+
 Scrap The Web Collection; [blog](https://tapaswenipathak.wordpress.com/2014/09/05/scraping-with-scrapy-part-1/) [posts](https://tapaswenipathak.wordpress.com/2014/09/06/scraping-with-scrapy-part-2/).
 
 This repo contains Scrapy sample code to scrap the following kind of websites:
